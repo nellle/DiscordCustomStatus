@@ -8,7 +8,9 @@
 
 
 # Ссылки
-
-https://discord.gg/KVGKCkuDNP
-https://www.donationalerts.com/r/sabino
-https://discord.com/oauth2/authorize?client_id=843851444188610561&scope=bot&permissions=8
+#### Дискорд сервер
+https://discord.gg/KVGKCkuDNP  
+#### Донат
+https://www.donationalerts.com/r/sabino  
+#### Дискорд Бот
+https://discord.com/oauth2/authorize?client_id=843851444188610561&scope=bot&permissions=8  
