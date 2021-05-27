@@ -1,0 +1,463 @@
+[2021-05-27T09:40:12.389698 12572] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:12.390206 10912] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:12.390206 10912] Config: (default) base_dir = 
+[2021-05-27T09:40:12.390206 10912] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:12.390206 10912] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:12.390206 10912] Config: (default) compiler = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:12.390206 10912] Config: (default) compression = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) compression_level = 6
+[2021-05-27T09:40:12.390206 10912] Config: (default) cpp_extension = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) debug = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) depend_mode = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) direct_mode = true
+[2021-05-27T09:40:12.390206 10912] Config: (default) disable = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) hard_link = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) hash_dir = true
+[2021-05-27T09:40:12.390206 10912] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:12.390206 10912] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:12.390206 10912] Config: (default) max_files = 0
+[2021-05-27T09:40:12.390206 10912] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:12.390206 10912] Config: (default) path = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) prefix_command = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) read_only = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) read_only_direct = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) recache = false
+[2021-05-27T09:40:12.390206 10912] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:12.390206 10912] Config: (default) sloppiness = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) stats = true
+[2021-05-27T09:40:12.390206 10912] Config: (default) temporary_dir = 
+[2021-05-27T09:40:12.390206 10912] Config: (default) umask = 
+[2021-05-27T09:40:12.474506 10912] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __constants.c
+in__.c
+[2021-05-27T09:40:12.475522 10912] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:12.475522 10912] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:12.475522 12572] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:12.476537 10912] Source file: __constants.c
+[2021-05-27T09:40:12.476537 12572] Object file: __helpers.o
+__.c
+[2021-05-27T09:40:12.476537 10912] Object file: __constants.o
+[2021-05-27T09:40:12.476537 10404] Object file: module.__main__.o
+[2021-05-27T09:40:12.476537 10404] Trying direct lookup
+[2021-05-27T09:40:12.477045 10912] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/9/36ab6079b547e6d2dc5030a1741a6e-4766.manifest
+[2021-05-27T09:40:12.477552 12572] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/b/f8c3617baaf8893f6606428b8b053f-61943.manifest
+[2021-05-27T09:40:12.477552 10404] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/7d3b2b27721750c2bd31ab0ca501de-84204.manifest
+[2021-05-27T09:40:12.477552 10404] No such manifest file
+[2021-05-27T09:40:12.477552 10404] Did not find object file hash in manifest
+[2021-05-27T09:40:12.478568 10404] Running preprocessor
+[2021-05-27T09:40:13.331882 6832 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) base_dir = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) compiler = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) compression = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) compression_level = 6
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) cpp_extension = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) debug = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) depend_mode = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) direct_mode = true
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) disable = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) hard_link = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) hash_dir = true
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:13.331882 6832 ] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) max_files = 0
+[2021-05-27T09:40:13.331882 6832 ] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) path = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) prefix_command = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) read_only = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) read_only_direct = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) recache = false
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) sloppiness = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) stats = true
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) temporary_dir = 
+[2021-05-27T09:40:13.331882 6832 ] Config: (default) umask = 
+[2021-05-27T09:40:13.332409 6832 ] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2021-05-27T09:40:13.332409 6832 ] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:13.332409 6832 ] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:13.332929 6832 ] Source file: __loader.c
+[2021-05-27T09:40:13.332929 6832 ] Object file: __loader.o
+[2021-05-27T09:40:13.332929 6832 ] Trying direct lookup
+[2021-05-27T09:40:13.333436 6832 ] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/f/a25deb156e2da4141d41448cc66d23-3182.manifest
+[2021-05-27T09:40:13.387452 6832 ] Got object file hash from manifest
+[2021-05-27T09:40:13.406715 6832 ] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/a/eb9beb37415f01fecd98af7d8ce6c7-440104.o to __loader.o (uncompressed)
+[2021-05-27T09:40:13.419383 12572] Got object file hash from manifest
+[2021-05-27T09:40:13.419383 10912] Got object file hash from manifest
+[2021-05-27T09:40:13.419889 12572] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/c45a6aa025d0e156b0c0ef3b224528-3010670.o to __helpers.o (uncompressed)
+[2021-05-27T09:40:13.420409 10912] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/5/df0c55b8404f0cf74b89198044221e-2973924.o to __constants.o (uncompressed)
+[2021-05-27T09:40:13.441741 6832 ] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/a/eb9beb37415f01fecd98af7d8ce6c7-440104.o -> __loader.o
+[2021-05-27T09:40:13.442248 6832 ] Succeeded getting cached result
+[2021-05-27T09:40:13.442248 6832 ] Result: cache hit (direct)
+[2021-05-27T09:40:13.442248 6832 ] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2021-05-27T09:40:13.483909 10912] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/5/df0c55b8404f0cf74b89198044221e-2973924.o -> __constants.o
+[2021-05-27T09:40:13.484390 10912] Succeeded getting cached result
+[2021-05-27T09:40:13.484390 10912] Result: cache hit (direct)
+[2021-05-27T09:40:13.531471 10912] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-27T09:40:13.538553 6832 ] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2021-05-27T09:40:13.539060 10912] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-27T09:40:13.562492 12572] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/c45a6aa025d0e156b0c0ef3b224528-3010670.o -> __helpers.o
+[2021-05-27T09:40:13.562492 12572] Succeeded getting cached result
+[2021-05-27T09:40:13.562492 12572] Result: cache hit (direct)
+[2021-05-27T09:40:13.562999 12572] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-05-27T09:40:13.564013 12572] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-05-27T09:40:13.653209 12560] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:13.653209 12560] Config: (default) base_dir = 
+[2021-05-27T09:40:13.653209 12560] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:13.653209 12560] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:13.653209 12560] Config: (default) compiler = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:13.653209 12560] Config: (default) compression = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) compression_level = 6
+[2021-05-27T09:40:13.653209 12560] Config: (default) cpp_extension = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) debug = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) depend_mode = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) direct_mode = true
+[2021-05-27T09:40:13.653209 12560] Config: (default) disable = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) hard_link = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) hash_dir = true
+[2021-05-27T09:40:13.653209 12560] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:13.653209 12560] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:13.653209 12560] Config: (default) max_files = 0
+[2021-05-27T09:40:13.653209 12560] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:13.653209 12560] Config: (default) path = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) prefix_command = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) read_only = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) read_only_direct = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) recache = false
+[2021-05-27T09:40:13.653209 12560] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:13.653209 12560] Config: (default) sloppiness = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) stats = true
+[2021-05-27T09:40:13.653209 12560] Config: (default) temporary_dir = 
+[2021-05-27T09:40:13.653209 12560] Config: (default) umask = 
+[2021-05-27T09:40:13.653727 12560] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2021-05-27T09:40:13.653727 12560] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:13.653727 12560] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:13.654223 12560] Source file: static_src\MainProgram.c
+[2021-05-27T09:40:13.654223 12560] Object file: static_src\MainProgram.o
+[2021-05-27T09:40:13.654223 12560] Trying direct lookup
+[2021-05-27T09:40:13.654223 12560] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/2/1af928684a95149a2c17ed85896b5a-26333.manifest
+[2021-05-27T09:40:13.666390 10384] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:13.666390 10384] Config: (default) base_dir = 
+[2021-05-27T09:40:13.666390 10384] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:13.666390 10384] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:13.666390 10384] Config: (default) compiler = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:13.666390 10384] Config: (default) compression = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) compression_level = 6
+[2021-05-27T09:40:13.666390 10384] Config: (default) cpp_extension = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) debug = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) depend_mode = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) direct_mode = true
+[2021-05-27T09:40:13.666390 10384] Config: (default) disable = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) hard_link = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) hash_dir = true
+[2021-05-27T09:40:13.666390 10384] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:13.666390 10384] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:13.666390 10384] Config: (default) max_files = 0
+[2021-05-27T09:40:13.666390 10384] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:13.666390 10384] Config: (default) path = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) prefix_command = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) read_only = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) read_only_direct = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) recache = false
+[2021-05-27T09:40:13.666390 10384] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:13.666390 10384] Config: (default) sloppiness = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) stats = true
+[2021-05-27T09:40:13.666390 10384] Config: (default) temporary_dir = 
+[2021-05-27T09:40:13.666390 10384] Config: (default) umask = 
+[2021-05-27T09:40:13.666896 10384] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-05-27T09:40:13.666896 10384] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:13.666896 10384] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:13.667403 10384] Source file: static_src\CompiledCellType.c
+[2021-05-27T09:40:13.667403 10384] Object file: static_src\CompiledCellType.o
+[2021-05-27T09:40:13.667403 10384] Trying direct lookup
+[2021-05-27T09:40:13.667403 10384] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/6f3feb60c4d80f56dd62f4fc1c27d8-8038.manifest
+[2021-05-27T09:40:13.885555 12740] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:13.885555 12740] Config: (default) base_dir = 
+[2021-05-27T09:40:13.885555 12740] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:13.885555 12740] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:13.885555 12740] Config: (default) compiler = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:13.885555 12740] Config: (default) compression = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) compression_level = 6
+[2021-05-27T09:40:13.885555 12740] Config: (default) cpp_extension = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) debug = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) depend_mode = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) direct_mode = true
+[2021-05-27T09:40:13.885555 12740] Config: (default) disable = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) hard_link = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) hash_dir = true
+[2021-05-27T09:40:13.885555 12740] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:13.885555 12740] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:13.885555 12740] Config: (default) max_files = 0
+[2021-05-27T09:40:13.885555 12740] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:13.885555 12740] Config: (default) path = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) prefix_command = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) read_only = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) read_only_direct = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) recache = false
+[2021-05-27T09:40:13.885555 12740] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:13.885555 12740] Config: (default) sloppiness = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) stats = true
+[2021-05-27T09:40:13.885555 12740] Config: (default) temporary_dir = 
+[2021-05-27T09:40:13.885555 12740] Config: (default) umask = 
+[2021-05-27T09:40:13.886062 12740] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-05-27T09:40:13.886062 12740] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:13.886062 12740] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:13.886569 12740] Source file: static_src\CompiledFunctionType.c
+[2021-05-27T09:40:13.886569 12740] Object file: static_src\CompiledFunctionType.o
+[2021-05-27T09:40:13.886569 12740] Trying direct lookup
+[2021-05-27T09:40:13.887075 12740] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/c/9f6280390fa311b743d8be2fcc1e7f-79019.manifest
+[2021-05-27T09:40:13.925626 10384] Got object file hash from manifest
+[2021-05-27T09:40:13.926640 10384] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/8/f01558614cf50114ffd0712fc8ad2b-2977601.o to static_src\CompiledCellType.o (uncompressed)
+[2021-05-27T09:40:13.986728 10384] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/8/f01558614cf50114ffd0712fc8ad2b-2977601.o -> static_src\CompiledCellType.o
+[2021-05-27T09:40:13.987240 10384] Succeeded getting cached result
+[2021-05-27T09:40:13.987240 10384] Result: cache hit (direct)
+[2021-05-27T09:40:13.987776 10384] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-27T09:40:13.990918 10384] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-27T09:40:14.141135 12740] Got object file hash from manifest
+[2021-05-27T09:40:14.141668 12740] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/d/abe624dd70b09be6c397ea0fed58bc-3058037.o to static_src\CompiledFunctionType.o (uncompressed)
+[2021-05-27T09:40:14.182360 12740] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/d/abe624dd70b09be6c397ea0fed58bc-3058037.o -> static_src\CompiledFunctionType.o
+[2021-05-27T09:40:14.183388 12740] Succeeded getting cached result
+[2021-05-27T09:40:14.183934 12740] Result: cache hit (direct)
+[2021-05-27T09:40:14.184480 12740] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-05-27T09:40:14.189658 12740] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-05-27T09:40:14.851183 9232 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) base_dir = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) compiler = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) compression = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) compression_level = 6
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) cpp_extension = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) debug = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) depend_mode = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) direct_mode = true
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) disable = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) hard_link = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) hash_dir = true
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:14.851183 9232 ] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) max_files = 0
+[2021-05-27T09:40:14.851183 9232 ] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) path = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) prefix_command = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) read_only = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) read_only_direct = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) recache = false
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) sloppiness = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) stats = true
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) temporary_dir = 
+[2021-05-27T09:40:14.851183 9232 ] Config: (default) umask = 
+[2021-05-27T09:40:14.851183 9232 ] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-05-27T09:40:14.851183 9232 ] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:14.851719 9232 ] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:14.851719 9232 ] Source file: static_src\CompiledGeneratorType.c
+[2021-05-27T09:40:14.851719 9232 ] Object file: static_src\CompiledGeneratorType.o
+[2021-05-27T09:40:14.852256 9232 ] Trying direct lookup
+[2021-05-27T09:40:14.852792 9232 ] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/1/fdfe91d080f95a221e33fcee8492d0-57468.manifest
+[2021-05-27T09:40:15.088983 9232 ] Got object file hash from manifest
+[2021-05-27T09:40:15.089489 9232 ] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/5/77504c037a2c2e70792ed983f165ee-3161481.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2021-05-27T09:40:15.199584 9232 ] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/5/77504c037a2c2e70792ed983f165ee-3161481.o -> static_src\CompiledGeneratorType.o
+[2021-05-27T09:40:15.200669 9232 ] Succeeded getting cached result
+[2021-05-27T09:40:15.200669 9232 ] Result: cache hit (direct)
+[2021-05-27T09:40:15.201215 9232 ] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-27T09:40:15.208609 9232 ] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-27T09:40:15.522960 12560] Got object file hash from manifest
+[2021-05-27T09:40:15.523465 12560] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/b/226333bd6881574038ccafda60b65e-4151058.o to static_src\MainProgram.o (uncompressed)
+[2021-05-27T09:40:15.569200 12560] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/b/226333bd6881574038ccafda60b65e-4151058.o -> static_src\MainProgram.o
+[2021-05-27T09:40:15.569200 12560] Succeeded getting cached result
+[2021-05-27T09:40:15.569200 12560] Result: cache hit (direct)
+[2021-05-27T09:40:15.569707 12560] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-27T09:40:15.571228 12560] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-27T09:40:15.598538 10404] Got object file hash from preprocessor
+[2021-05-27T09:40:15.598538 10404] Object file C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/b2ba1437bfc1dfda4562de2759ba8b-3046853.o not in cache
+[2021-05-27T09:40:15.598538 10404] Running real compiler
+[2021-05-27T09:40:17.868512 7384 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) base_dir = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) compiler = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) compression = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) compression_level = 6
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) cpp_extension = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) debug = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) depend_mode = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) direct_mode = true
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) disable = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) hard_link = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) hash_dir = true
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:17.868512 7384 ] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) max_files = 0
+[2021-05-27T09:40:17.868512 7384 ] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) path = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) prefix_command = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) read_only = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) read_only_direct = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) recache = false
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) sloppiness = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) stats = true
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) temporary_dir = 
+[2021-05-27T09:40:17.868512 7384 ] Config: (default) umask = 
+[2021-05-27T09:40:17.868512 7384 ] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2021-05-27T09:40:17.869029 7384 ] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:17.869029 7384 ] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:17.869029 7384 ] Source file: static_src\CompiledCodeHelpers.c
+[2021-05-27T09:40:17.869526 7384 ] Object file: static_src\CompiledCodeHelpers.o
+[2021-05-27T09:40:17.869526 7384 ] Trying direct lookup
+[2021-05-27T09:40:17.869526 7384 ] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/f/bd9a9fd15f69e769b68cfb0012b2bd-55586.manifest
+[2021-05-27T09:40:17.885262 6316 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) base_dir = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) compiler = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) compression = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) compression_level = 6
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) cpp_extension = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) debug = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) depend_mode = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) direct_mode = true
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) disable = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) hard_link = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) hash_dir = true
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:17.885262 6316 ] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) max_files = 0
+[2021-05-27T09:40:17.885262 6316 ] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) path = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) prefix_command = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) read_only = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) read_only_direct = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) recache = false
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) sloppiness = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) stats = true
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) temporary_dir = 
+[2021-05-27T09:40:17.885262 6316 ] Config: (default) umask = 
+[2021-05-27T09:40:17.885262 6316 ] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-05-27T09:40:17.885262 6316 ] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:17.885769 6316 ] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:17.885769 6316 ] Source file: static_src\InspectPatcher.c
+[2021-05-27T09:40:17.885769 6316 ] Object file: static_src\InspectPatcher.o
+[2021-05-27T09:40:17.885769 6316 ] Trying direct lookup
+[2021-05-27T09:40:17.886276 6316 ] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/7/1592c4026c6aff1264ccc506cdd797-13702.manifest
+[2021-05-27T09:40:17.897949 11120] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-27T09:40:17.897949 11120] Config: (default) base_dir = 
+[2021-05-27T09:40:17.897949 11120] Config: (environment) cache_dir = C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-27T09:40:17.897949 11120] Config: (default) cache_dir_levels = 2
+[2021-05-27T09:40:17.897949 11120] Config: (default) compiler = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) compiler_check = mtime
+[2021-05-27T09:40:17.897949 11120] Config: (default) compression = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) compression_level = 6
+[2021-05-27T09:40:17.897949 11120] Config: (default) cpp_extension = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) debug = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) depend_mode = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) direct_mode = true
+[2021-05-27T09:40:17.897949 11120] Config: (default) disable = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) extra_files_to_hash = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) hard_link = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) hash_dir = true
+[2021-05-27T09:40:17.897949 11120] Config: (default) ignore_headers_in_manifest = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) keep_comments_cpp = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) limit_multiple = 0.8
+[2021-05-27T09:40:17.897949 11120] Config: (environment) log_file = C:\Users\Rstas\Desktop\discord status\gui.build\ccache-9432.txt
+[2021-05-27T09:40:17.897949 11120] Config: (default) max_files = 0
+[2021-05-27T09:40:17.897949 11120] Config: (C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-27T09:40:17.897949 11120] Config: (default) path = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) pch_external_checksum = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) prefix_command = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) prefix_command_cpp = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) read_only = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) read_only_direct = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) recache = false
+[2021-05-27T09:40:17.897949 11120] Config: (default) run_second_cpp = true
+[2021-05-27T09:40:17.897949 11120] Config: (default) sloppiness = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) stats = true
+[2021-05-27T09:40:17.897949 11120] Config: (default) temporary_dir = 
+[2021-05-27T09:40:17.897949 11120] Config: (default) umask = 
+[2021-05-27T09:40:17.897949 11120] Command line: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Rstas\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-05-27T09:40:17.897949 11120] Hostname: DESKTOP-TR80JHQ
+[2021-05-27T09:40:17.897949 11120] Working directory: C:\Users\Rstas\Desktop\discord status\gui.build
+[2021-05-27T09:40:17.898455 11120] Source file: static_src\MetaPathBasedLoader.c
+[2021-05-27T09:40:17.898455 11120] Object file: static_src\MetaPathBasedLoader.o
+[2021-05-27T09:40:17.898455 11120] Trying direct lookup
+[2021-05-27T09:40:17.898962 11120] Looking for object file hash in C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/dd38bfdc7324e8bbd7a62532b07768-53961.manifest
+[2021-05-27T09:40:18.042349 6316 ] Got object file hash from manifest
+[2021-05-27T09:40:18.043364 6316 ] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/5f6e83a59b883aff6c889721189840-2983286.o to static_src\InspectPatcher.o (uncompressed)
+[2021-05-27T09:40:18.067702 6316 ] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/5f6e83a59b883aff6c889721189840-2983286.o -> static_src\InspectPatcher.o
+[2021-05-27T09:40:18.067702 6316 ] Succeeded getting cached result
+[2021-05-27T09:40:18.068208 6316 ] Result: cache hit (direct)
+[2021-05-27T09:40:18.068208 6316 ] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-05-27T09:40:18.069728 6316 ] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-05-27T09:40:18.072769 11120] Got object file hash from manifest
+[2021-05-27T09:40:18.073783 11120] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/e/6d8b95c0296438042ab99f91ca0bb2-3008527.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2021-05-27T09:40:18.137703 11120] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/e/6d8b95c0296438042ab99f91ca0bb2-3008527.o -> static_src\MetaPathBasedLoader.o
+[2021-05-27T09:40:18.138200 11120] Succeeded getting cached result
+[2021-05-27T09:40:18.138200 11120] Result: cache hit (direct)
+[2021-05-27T09:40:18.138707 11120] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-05-27T09:40:18.212171 11120] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-05-27T09:40:18.247872 7384 ] Got object file hash from manifest
+[2021-05-27T09:40:18.248930 7384 ] Copying C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/d/86b9c953dfe67aa9264a5778649e36-5517061.o to static_src\CompiledCodeHelpers.o (uncompressed)
+[2021-05-27T09:40:18.434341 7384 ] Created from cache: C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/d/86b9c953dfe67aa9264a5778649e36-5517061.o -> static_src\CompiledCodeHelpers.o
+[2021-05-27T09:40:18.434341 7384 ] Succeeded getting cached result
+[2021-05-27T09:40:18.434341 7384 ] Result: cache hit (direct)
+[2021-05-27T09:40:18.434834 7384 ] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-05-27T09:40:18.437891 7384 ] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-05-27T09:40:18.516570 10404] Unlink C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/b2ba1437bfc1dfda4562de2759ba8b-3046853.o.tmp.stdout.DESKTOP-TR80JHQ.10404.1QBI6D
+[2021-05-27T09:40:18.517078 10404] Unlink C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/b2ba1437bfc1dfda4562de2759ba8b-3046853.o.tmp.stderr.DESKTOP-TR80JHQ.10404.SS92c3
+[2021-05-27T09:40:18.517584 10404] Copying module.__main__.o to C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/b2ba1437bfc1dfda4562de2759ba8b-3046853.o via C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/b2ba1437bfc1dfda4562de2759ba8b-3046853.o.DESKTOP-TR80JHQ.10404.1Apgjk (uncompressed)
+[2021-05-27T09:40:18.518091 10404] Stored in cache: module.__main__.o -> C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/b2ba1437bfc1dfda4562de2759ba8b-3046853.o (copied)
+[2021-05-27T09:40:18.521132 10404] Added object file hash to C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/7d3b2b27721750c2bd31ab0ca501de-84204.manifest
+[2021-05-27T09:40:18.521638 10404] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-27T09:40:18.523158 10404] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-27T09:40:18.524172 10404] Result: cache miss
+[2021-05-27T09:40:18.524679 10404] Acquired lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-05-27T09:40:18.525693 10404] Releasing lock C:\Users\Rstas\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
